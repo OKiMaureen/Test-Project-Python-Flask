@@ -1,0 +1,4 @@
+Flask-RESTful
+Flask-Script
+Flask-Migrate
+Flask-SQLAlchemy

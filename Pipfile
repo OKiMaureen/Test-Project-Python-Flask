@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==0.12.2"
+marshmallow = "==2.14.0"
+flask-marshmallow = "==0.8.0"
+marshmallow-sqlalchemy = "==0.13.2"
+"psycopg2" = "==2.7.5"
+Flask-RESTful = "==0.3.6"
+Flask-Script = "==2.0.6"
+Flask-Migrate = "==2.1.1"
+Flask-SQLAlchemy = "==2.3.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
